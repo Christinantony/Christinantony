@@ -12,7 +12,6 @@ I care about the architecture behind an automation: how inputs are validated, en
 | :--- | :--- | :--- |
 | **[SolidWorks Engineering Automation](https://github.com/Christinantony/solidworks-engineering-automation)** | Repetitive component numbering, coordinate entry, feature creation, and drawing annotation | VBA, SolidWorks API, Excel COM; readable source recovered from 16 macro projects |
 | **[VerdantPERT](https://github.com/Christinantony/verdant-pert)** | Rebuilding manufacturing and antenna-development schedules by hand | MATLAB application, engineering rule databases, workflow generators, dependency graphs, critical-path and float analysis |
-
 | **[Engineering Board](https://github.com/Christinantony/engineering-board)** · private | Coordinate mechanical-design jobs, workload, drawing reviews, and team handovers | Architecture designed by me; React, TypeScript, Node.js, SQLite, REST API, and live updates |
 
 ### Engineering Board: my architecture work
